@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/nikhil-roeewal/**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil90398&show_icons=true&locale=en&layout=compact" alt="nikhil90398" /></p>
